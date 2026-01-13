@@ -1,0 +1,6 @@
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:LuisPGuimaraes/back-the-big-counter.git
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:LuisPGuimaraes/front-the-big-counter.git
