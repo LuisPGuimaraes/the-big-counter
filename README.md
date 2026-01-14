@@ -19,13 +19,3 @@ docker compose up backend
 ```sh
 docker compose up frontend
 ```
-
-
-* For run only datomic db:
-```sh
-docker compose up --build datomic
-```
-
-Connect from the backend:
-- Host: `localhost`
-- Port: `4334`
