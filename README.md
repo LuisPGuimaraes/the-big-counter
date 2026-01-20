@@ -2,7 +2,10 @@
 The Big Counter is a full-stack web application for managing counters. It was built as a technical exercise with a Clojure (Pedestal) backend and a TypeScript/React frontend, then expanded with multi-counter management and shared usage across users.
 
 ## Frontend Preview
-![Frontend screenshot](docs/frontend-screenshot.png)
+<img width="1438" height="770" alt="image" src="https://github.com/user-attachments/assets/1447ff84-555c-4a5f-8041-74fd1600411d" />
+
+## Issues
+You can see the issues created for development. [Issues](https://github.com/LuisPGuimaraes/the-big-counter/issues?q=is%3Aissue%20state%3Aclosed)
 
 ## MVP (Original Challenge)
 The test is to build a web app where:
