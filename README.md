@@ -25,7 +25,7 @@ The test is to build a web app where:
 - Backend: Clojure + Pedestal
 - Database (optional): Datomic Local / Datomic in-memory
 - Frontend: React + TypeScript
-- Containerization: Docker / Docker Compose
+
 
 ## How to Run
 ### Backend (Clojure/Pedestal)
@@ -54,5 +54,5 @@ Document the API routes exposed by the Pedestal service here. Example structure:
 - `POST /counters` - create a new counter
 - `DELETE /counters/:id` - delete a counter
 - `GET /counters/:id` - fetch a counter value
-- `POST /counters/:id/increment` - increment by a value
-- `POST /counters/:id/reset` - reset to zero
+- `POST /counters/increment` - increment by a value
+- `POST /counters/reset` - reset to zero
